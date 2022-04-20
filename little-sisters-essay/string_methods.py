@@ -10,10 +10,9 @@ def capitalize_title(title):
 
     if title.count(' ') != 0:
         set_title = ''
-        new_array_string_title = title.rsplit(' ')
 
-        for index in range(0, len(new_array_string_title)):
-            set_title += f'{new_array_string_title[index].capitalize()} '
+        for str_spliced in title.rsplit(' '):
+            set_title += f'{str_spliced.capitalize()} '
 
         return set_title.strip()
 
