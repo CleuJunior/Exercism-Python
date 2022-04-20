@@ -62,3 +62,24 @@ e toda seu programa de estudos. Cada desafio proposto é passado por uma liste d
 | Title                      | Quick description                                                                                                                                                                      | Full Description                                                                           | My Solution                                                                                                       | Used Tests                                                                                                          |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Little Sister's Vocabulary | You are helping your younger sister with her English vocabulary homework, which she's finding very tedious. Her class is learning to create new words by adding prefixes and suffixes. | [Click Here](https://github.com/CleuJunior/Exercism-Python/tree/main/little-sisters-vocab) | [Click for the Solution](https://github.com/CleuJunior/Exercism-Python/blob/main/little-sisters-vocab/strings.py) | [Click for the Tests](https://github.com/CleuJunior/Exercism-Python/blob/main/little-sisters-vocab/strings_test.py) |
+
+
+
+### Strings Methods
+
+[//]: # (:white_check_mark)
+
+
+| Title                 | Quick description                                                                                                                                                   | Full Description                                                                           | My Solution                                                                                                              | Used Tests                                                                                                                 |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Little Sister's Essay | In this exercise you are helping your younger sister edit her paper for school. The teacher is looking for correct punctuation, grammar, and excellent word choice. | [Click Here](https://github.com/CleuJunior/Exercism-Python/tree/main/little-sisters-essay) | [Click for the Solution](https://github.com/CleuJunior/Exercism-Python/blob/main/little-sisters-essay/string_methods.py) | [Click for the Tests](https://github.com/CleuJunior/Exercism-Python/blob/main/little-sisters-essay/string_methods_test.py) |
+
+
+### Comparison 
+
+[//]: # (:white_check_mark)
+
+
+| Title      | Quick description                                                                                                   | Full Description                                                                 | My Solution                                                                                                | Used Tests                                                                                                   |
+|------------|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| Black Jack | In this exercise you are going to implement some rules of Blackjack, such as the way the game is played and scored. | [Click Here](https://github.com/CleuJunior/Exercism-Python/tree/main/black-jack) | [Click for the Solution](https://github.com/CleuJunior/Exercism-Python/blob/main/black-jack/black_jack.py) | [Click for the Tests](https://github.com/CleuJunior/Exercism-Python/blob/main/black-jack/black_jack_test.py) |
